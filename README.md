@@ -6,7 +6,7 @@ author: ggailey777
 # App Service Mobile Apps completed quickstart for Windows apps
 This repository contains Windows app projects based on the App Service Mobile Apps quickstart project, which you can download from the [Azure portal](https://portal.azure.com). These projects have been enhanced by the addition of offline sync, authentication, and push notification functionality. This demonstrates how to best integrate the various Mobile Apps features. To learn how to download the Windows quickstart app project from the portal, see [Create a Windows app](https://azure.microsoft.com/documentation/articles/app-service-mobile-windows-store-dotnet-get-started/). 
 
-This project was cloned from [here] (https://github.com/Azure-Samples/app-service-mobile-windows-quickstart)
+This project was cloned from [here](https://github.com/Azure-Samples/app-service-mobile-windows-quickstart)
 
 This readme topic contains the following information to help you run the sample app project and to better understand the design decisions.
 
